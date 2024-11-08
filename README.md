@@ -68,6 +68,9 @@ The final Coffee Sales Dashboard includes:
 ---
 
 ## Project Structure
-Raw data - <a href="https://github.com/poornima1707/Coffee-Sales-Dashboard-Project/blob/main/coffeeOrdersRAWData.xlsx">DataSet</a>
-Final Interactive Dashboard - <a href="https://github.com/poornima1707/Coffee-Sales-Dashboard-Project/blob/main/coffeeOrdersData%20Excel%20project.xlsx">Final Interactive Dashboard</a>
-Screenshot - <a href="https://github.com/poornima1707/Coffee-Sales-Dashboard-Project/blob/main/Screenshot%20(16).png">Final Dashboard Screenshot</a>
+-Raw data - <a href="https://github.com/poornima1707/Coffee-Sales-Dashboard-Project/blob/main/coffeeOrdersRAWData.xlsx">DataSet</a>
+-Final Interactive Dashboard - <a href="https://github.com/poornima1707/Coffee-Sales-Dashboard-Project/blob/main/coffeeOrdersData%20Excel%20project.xlsx">Final Interactive Dashboard</a>
+-Screenshot - <a href="https://github.com/poornima1707/Coffee-Sales-Dashboard-Project/blob/main/Screenshot%20(16).png">Final Dashboard Screenshot</a>
+-You can enable sheet tabs in final dashboard project to see the tabs in excel by going to files -> options -> advanced in ms excel.
+
+THANK YOU !!!
