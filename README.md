@@ -33,7 +33,7 @@ This dashboard allows users to analyze coffee sales performance by date, roast t
 
 ### Data Preparation
 
-1. **Download Data**: Obtain the raw data file (`Coffee_Sales_Data.xlsx`) included in the repository.
+1. **Download Data**: Obtain the raw data file <a href="https://github.com/poornima1707/Coffee-Sales-Dashboard-Project/blob/main/coffeeOrdersRAWData.xlsx">DataSet</a> included in the repository.
 2. **Data Cleaning**: Follow instructions to clean and prepare the data for analysis, ensuring uniformity in date formats, product names, and other fields.
 3. **Load Data into Excel**: Set up tables with clear headers and verify all fields are properly formatted.
 
@@ -69,4 +69,5 @@ The final Coffee Sales Dashboard includes:
 
 ## Project Structure
 Raw data - <a href="https://github.com/poornima1707/Coffee-Sales-Dashboard-Project/blob/main/coffeeOrdersRAWData.xlsx">DataSet</a>
-
+Final Dashboard - <a herf="https://github.com/poornima1707/Coffee-Sales-Dashboard-Project/blob/main/coffeeOrdersData%20Excel%20project.xlsx">Interactive Dashboard</a>
+Screenshot - <a href="https://github.com/poornima1707/Coffee-Sales-Dashboard-Project/blob/main/Screenshot%20(16).png">Final Dashboard Screenshot</a>
