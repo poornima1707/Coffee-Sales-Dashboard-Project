@@ -68,4 +68,5 @@ The final Coffee Sales Dashboard includes:
 ---
 
 ## Project Structure
+Raw data - <a href="https://github.com/poornima1707/Coffee-Sales-Dashboard-Project/blob/main/coffeeOrdersRAWData.xlsx">DataSet</a>
 
